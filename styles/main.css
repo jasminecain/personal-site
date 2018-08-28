@@ -8197,12 +8197,18 @@ body {
 
 .image {
 	display: block;
-	width: 260px;
-	height: 380px;
+	width: 300px;
+	height: 350px;
   background: url(images/jas-goofy.jpg) bottom;
   padding-bottom: 20px;
-	text-indent: -99999px;
+  padding-left: 80px;
+  /* text-indent: -99999px; */
 }
 .image:hover {
 	background-position: 0 0;
+}
+
+.image-wrapper {
+  display: flex;
+  justify-content: center;
 }
