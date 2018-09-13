@@ -7950,7 +7950,7 @@ a.text-dark:focus, a.text-dark:hover {
 /* Header Section */
 .tf-header {
   position: relative;
-  background: url("../images/1-hero-image.jpg") no-repeat center center;
+  background: url("../images/background.png") no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   height: 650px;
